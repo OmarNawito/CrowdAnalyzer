@@ -1,0 +1,16 @@
+{
+  "name": "task",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "aws-sdk": "~2.1.36",
+    "express": "~4.12.4",
+    "faker": "^5.4.0",
+    "mongodb": "^3.6.4",
+    "nodemon": "^2.0.7",
+    "simple-node-logger": "^18.12.24"
+  }
+}
